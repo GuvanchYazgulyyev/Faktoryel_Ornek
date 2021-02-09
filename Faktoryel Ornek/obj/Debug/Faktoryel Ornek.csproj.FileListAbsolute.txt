@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\C# ders 5\Faktoryel Ornek\Faktoryel Ornek\bin\Debug\Faktoryel Ornek.exe.config
+C:\Users\Dell\source\repos\C# ders 5\Faktoryel Ornek\Faktoryel Ornek\bin\Debug\Faktoryel Ornek.exe
+C:\Users\Dell\source\repos\C# ders 5\Faktoryel Ornek\Faktoryel Ornek\bin\Debug\Faktoryel Ornek.pdb
+C:\Users\Dell\source\repos\C# ders 5\Faktoryel Ornek\Faktoryel Ornek\obj\Debug\Faktoryel_Ornek.Form1.resources
+C:\Users\Dell\source\repos\C# ders 5\Faktoryel Ornek\Faktoryel Ornek\obj\Debug\Faktoryel_Ornek.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 5\Faktoryel Ornek\Faktoryel Ornek\obj\Debug\Faktoryel Ornek.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 5\Faktoryel Ornek\Faktoryel Ornek\obj\Debug\Faktoryel Ornek.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 5\Faktoryel Ornek\Faktoryel Ornek\obj\Debug\Faktoryel Ornek.exe
+C:\Users\Dell\source\repos\C# ders 5\Faktoryel Ornek\Faktoryel Ornek\obj\Debug\Faktoryel Ornek.pdb
